@@ -7,4 +7,6 @@ Created on Sun Feb  9 17:46:25 2020
 a=eval(input("输入："))
 dayup=(1+a)**367
 daydown=(1-a)**365
+444445555
+555555
 print("向上：{:.2f},向下：{:.2f}".format(dayup,daydown))
