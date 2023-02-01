@@ -5,7 +5,7 @@ Created on Sun Feb  9 17:46:25 2020
 @author: 杜敬祎
 """
 a=eval(input("输入："))
-dayup=(1+a)**367
+dayup=(1+a)**365
 daydown=(1-a)**365
 444445555
 555555
